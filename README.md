@@ -178,3 +178,9 @@ CNNClassifier(
 - Kim, Convolutional neural networks for sentence classification, EMNLP, 2014
 - Devlin et al., BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding, ACL, 2019
 - [Lee, KcBERT: Korean comments BERT, GitHub, 2020](https://github.com/Beomi/KcBERT)
+
+
+## data
+
+- 데이터 관련한 부분은 git에 올라가지 않아서(git이 초보라..) 로컬 컴퓨터에 갖고있음. 필요하신 분이 있다면 mail이나 dm 주시면 드리겠습니다.
+- 형태는 review.sorted.uniq.refined.shuf.test.tsv 등으로 되어있으며 크기는 train set 기준 42,132KB.
